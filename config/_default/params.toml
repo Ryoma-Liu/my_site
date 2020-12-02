@@ -22,7 +22,7 @@ font = "alison"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A data science blog and portfolio by Alison Hill"
+description = ""
 
 ############################
 ## Site Features
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "apresstats@gmail.com"
+email = "shipeng_liu@hotmail.com"
 phone = ""
 
 # Address
