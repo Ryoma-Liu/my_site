@@ -89,8 +89,16 @@ a.nav-link:hover:after {
   transform: scale(1.05);
 }
 
+.carousel-section.first-of-type{
+  padding: 0 px 0 50px 0;
+}
+
+.carousel-section:not(:first-of-type){
+  padding: 25px 0 50px 0;
+}
+
 .home-section:first-of-type {
-  padding: 0px 0 50px 0;
+  padding: 50 px 0 50px 0;
 }
 
 .home-section:not(:first-of-type) {
