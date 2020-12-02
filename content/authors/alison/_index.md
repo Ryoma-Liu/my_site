@@ -1,56 +1,53 @@
 ---
+
+role: Graduate student with honor in Electrical Engineering
+avatar_filename: avatar.jpg
+organizations:
+  - name: Tongji University
+    url: https://www.tongji.edu.cn/
 authors:
-- alison
-bio: I'm a developmental psychologist, former NIH Principal Investigator, and autism researcher who loves programming.
+- shipeng liu
+bio: My research interests include human-robot interaction, user interface design, web application, as well as reinforcement learning.
+
 education:
   courses:
-  - course: PhD in Developmental Psychology & Quantitative Methods
-    institution: Vanderbilt University
-    year: 2008
-  - course: MSc in Developmental Psychology
-    institution: Vanderbilt University
-    year: 2005
-  - course: BSc in Applied Psychology
-    institution: Georgia Institute of Technology
-    year: 2002
-email: ""
+  - course: BEng in Electrical Engineering
+    institution: Tongji University
+    year: 2019
+email: "shipeng_liu@hotmail.com"
 interests:
-- Knowledge sharing
-- Mentoring
-- Data analysis
-- Data visualization
-- Machine learning
-- Literate programming
-name: Alison Hill
-organizations:
-- name: RStudio
-  url: https://www.rstudio.com/
-role: Data Scientist & Professional Educator
+- Human Robot interaction
+- artificial intelligence
+- web user interface design
+- Learning for control and planning
+- Reinforcement Learning
+- Self-driving Cars
+name: Shipeng Liu
+
+
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/apreshill
+  link: https://twitter.com/ryoma-liu
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill
-- icon: impactstory
-  icon_pack: ai
-  link: https://impactstory.org/u/0000-0002-8082-1890
+  link: https://github.com/ryoma-liu
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-8082-1890
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/alisonpresmaneshill/
-- icon: keybase
-  icon_pack: fab
-  link: https://keybase.io/alisonhill
+  link: https://www.linkedin.com/in/shipeng-liu-981586195/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=yGD9V6MAAAAJ&hl=en
 superuser: true
 ---
 
-I am a PhD data scientist and professional educator at RStudio. I am an international keynote [speaker](/talks), [award-winning educator](/resume/#accomplishments), and co-author of the book [*blogdown: Creating Websites with R Markdown*](https://bookdown.org/yihui/blogdown/). I love creating [unique platforms](/projects) for sharing knowledge and data-driven insights, from websites to presentations and everything in between. I am known for being a compassionate leader and enthusiastic collaborator, and for making user-facing experiences that engage and delight.
+**Shipeng Liu** (in Chinese: 刘世鹏)  received his Bachelor’s Degree in Communication Engineering and mathematics(minor) with Excellent Graduate Honor in 2020 from [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
+
+“*Life is full of Challenges*” is my life motto, which inspired me to explore **the interdisciplinary realm of robotic intelligence** through industrial internship and research exploration. Currently I am doing a research intern remotely in ***[UMich](https://cse.engin.umich.edu/)*** under supervision of ***[Prof. Xu Wang](http://www.cs.cmu.edu/~xuwang/)***. I think it's as cool as the interaction problems between humans and machines. Previously, I worked on **simulation and learning for control of unmanned vehicles** supervised by [Prof. Ming Liu](https://sites.google.com/site/mingliurobot/home) in [Robotics and Multi-Perception Lab, Robotics Institute, HKUST](https://www.ram-lab.com/), which resulted in my [bachelor thesis]().
+
+For more info, you can refer to the latest [**CV**]() here.
 
 
