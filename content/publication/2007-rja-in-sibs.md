@@ -1,7 +1,7 @@
 +++
 abstract = "We compared responding to joint attention (RJA) in younger siblings of children with ASD (SIBS- ASD; n = 46) and younger siblings of children developing typically (SIBS-TD; n = 35). Children were tested between 12 and 23 months of age in a situation in which an experimenter directed the child’s attention to one of 8 targets. Each child responded to 10 different combinations of verbal and nonverbal cues containing varying levels of attention-specifying information. SIBS-ASD had significantly lower overall RJA scores than SIBS-TD. Moderately redundant cues were most difficult for SIBS-ASD relative to SIBS-TD; adding a point to moderately redundant cues improved RJA for SIBS-ASD, bringing them to a level of RJA commensurate with SIBS-TD."
 
-authors = ["Xiao-ying YANG", "**Shi-peng LIU**", "Lin-wei CHEN", "Jing ZHOU", "You-ling YU"]
+authors = ["Xiao-ying YANG", "<strong>Shi-peng LIU</strong>", "Lin-wei CHEN", "Jing ZHOU", "You-ling YU"]
 date = "2019-09-01"
 image_preview = ""
 math = true
@@ -9,8 +9,8 @@ publication_types = ["1"]
 publication = "In *International Conference on Artificial Intelligence and Computer Science(ICAICS), Hangzhou, China, 2019*"
 publication_short = "In *International Conference on Artificial Intelligence and Computer Science(ICAICS), Hangzhou, China, 2019*"
 selected = false
-title = "Effects of Different Attentional Cues on Responding to Joint Attention in Younger Siblings of Children with Autism Spectrum Disorders"
-url_code = ""
+title = "Analysis and Design of an Effective Energy Utilizing TEG System"
+url_code = "https://github.com/Ryoma-Liu/Object-Contour-Following-Based-on-Pure-Tactile-Sense"
 url_dataset = ""
 url_pdf = "pdf/2007-rja-in-sibs.pdf"
 url_project = ""
