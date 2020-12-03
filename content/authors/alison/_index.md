@@ -20,7 +20,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: shipeng_liu@hotmail.com
+    link: mailto:shipeng_liu@hotmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ryoma-liu
