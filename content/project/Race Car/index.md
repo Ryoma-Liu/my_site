@@ -1,12 +1,9 @@
 ---
-title: Intelligent Racing Car
+title: Intelligent Beacon-tracking Racing Car
 date: 2020-11-08T04:27:24.270Z
 summary: >-
-  Won ***the First Prize (Top 1%) in*** the 2018 NXP Cup National University
-  Students Intelligent Car Race;
+  Won ***the First Prize (Top 1%) in*** NXP Car Race;
 
-
-  Published ***a paper*** in 2019 International Conference on Artificial Intelligence and Computer Science
 draft: false
 featured: false
 authors:

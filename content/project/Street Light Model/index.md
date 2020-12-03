@@ -2,13 +2,7 @@
 title: Intelligent Lighting System
 date: 2020-11-08T04:46:40.879Z
 summary: >-
-  Won ***the Silver Medal*** in the 2018 “Internet Plus” Innovation and
-  Entrepreneurship Competition
-
-
-  Won ***the Third Prize*** in the 2018 Innovation and Entrepreneurship Forum
-
-  Published ***a paper*** in 2019 International Conference on Artificial Intelligence and Computer Science
+  Published a paper in DEStech Transactions on Computer Science and Engineering
 draft: false
 featured: false
 tags:
