@@ -1,15 +1,15 @@
 +++
-abstract = "We examined the effect of item-specific and relational encoding instructions on false recognition in two experiments in which the DRM paradigm was used (Deese, 1959; Roediger & McDermott, 1995). Type of encoding (item-specific or relational) was manipulated between subjects in Experiment 1 and within subjects in Experiment 2. Decision-based explanations (e.g., the distinctiveness heuristic) predict reductions in false recognition in between-subjects designs, but not in within-subjects designs, because they are conceptualized as global shifts in decision criteria. Memory-based explanations predict reductions in false recognition in both designs, resulting from enhanced recollection of item-specific details. False recognition was reduced following item-specific encoding instructions in both experiments, favoring a memory-based explanation. These results suggest that providing unique cues for the retrieval of individual studied items results in enhanced discrimination between those studied items and critical lures. Conversely, enhancing the similarity of studied items results in poor discrimination among items within a particular list theme. These results are discussed in terms of the item-specific/relational framework (Hunt & McDaniel, 1993)."
+abstract = "This paper introduces the design and implementation of a smart car system that can orient the illuminating beacon. After debugging and testing, the system has good accuracy and speed. Combining image recognition, path decision, adaptive obstacle avoidance and other control algorithms, the system is an original model and has certain practical significance for vehicle electronic technologies."
 
-authors = ["David P. McCabe", "alison", "Chuck L. Robertson", "Anderson D. Smith"]
-date = "2004-12-01"
+authors = ["Shi-peng LIU", "Xiao-ying YANG", "You-ling YU"]
+date = "2019-07-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Psychonomic Bulletin & Review*"
-publication_short = "PB&R"
+publication = "In *DEStech Transactions on Computer Science and Engineering, 2019, 103-109*"
+publication_short = "DEStech"
 selected = false
-title = "Item-specific Processing Reduces False Memories"
+title = "Analysis and Implementation of the Control Algorithms of the Smart Car"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/2004-false-memories.pdf"
@@ -17,9 +17,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = "View Journal Article"
-url = "http://link.springer.com/article/10.3758/BF03196739"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
