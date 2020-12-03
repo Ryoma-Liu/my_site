@@ -2,7 +2,7 @@
 title: Intelligent Beacon-tracking Racing Car
 date: 2020-11-08T04:27:24.270Z
 summary: >-
-  Won ***the First Prize (Top 1%) in*** NXP-Car-Race
+  Won *** First Prize(Top 1%) in*** NXP-Car-Race
 
 draft: false
 featured: false
