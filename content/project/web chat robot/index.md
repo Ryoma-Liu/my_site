@@ -4,7 +4,7 @@ slides: example
 url_pdf: ""
 title: Web Chat Robot
 date: 2020-07-27T00:00:00.000Z
-summary: Remote Research Intern In UMich
+summary: Remote Research Intern In [UMich](https://web.eecs.umich.edu/~xwanghci/)
 url_video: ""
 tags:
   - Web Application
