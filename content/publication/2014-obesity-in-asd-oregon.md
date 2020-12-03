@@ -1,18 +1,18 @@
 +++
-abstract = "Autism Spectrum Disorders (ASDs) and childhood obesity (OBY) are rising public health concerns. This study aimed to evaluate the prevalence of overweight (OWT) and OBY in a sample of 376 Oregon children with ASD, and to assess correlates of OWT and OBY in this sample. We used descriptive statistics, bivariate, and focused multivariate analyses to determine whether socio-demographic characteristics, ASD symptoms, ASD cognitive and adaptive functioning, behavioral problems, and treatments for ASD were associated with OWT and OBY in ASD. Overall 18.1 % of children met criteria for OWT and 17.0 % met criteria for OBY. OBY was associated with sleep difficulties, melatonin use, and affective problems. Interventions that consider unique needs of children with ASD may hold promise for improving weight status among children with ASD."
+abstract = "According to the protocols of the 3GPP LTE physical layer and the channel models of V2V (Vehicle to Vehicle communication), a LINk-level simulation platform of LTEv2v based on MATLAB was established. The v2v communication realized in this platform is essentially LTE D2D communication in the high-speed scenarios, and it multiplexes the frequency band resources of LTE uplink. In this paper, an elegant user UI interface is designed for this platform. Considering the higher error rate (BLER) and strict delay requirement of v2v communication, a new SNR-CQI(MCS) mapping algorithm is proposed, so as to improve link adaptability in V2V mode. The improved simulation results are compared with the fixed CQI(MCS) scheme. Finally, the effectiveness of the proposed scheme is verified and the link performance under the condition of multiple vehicles is verified. It has guiding significance for the establishment of a V2V system-level platform."
 
-authors = ["Katharine E. Zuckerman", "alison", "Kimberly Guion", "Lisa Voltolina", "Eric Fombonne"]
-date = "2014-02-02"
+authors = ["Shipeng Liu"]
+date = "2019-02-02"
 image_preview = ""
 math = true
-publication_types = ["2"]
-publication = "In *Journal of Autism & Developmental Disorders*"
-publication_short = "JADD"
+publication_types = ["4"]
+publication = "Report of course project in Chinese *Undergraduate research programm*"
+publication_short = ""
 selected = false
-title = "Overweight and Obesity: Prevalence and Correlates in a Large Clinical Sample of Children with Autism Spectrum Disorder"
+title = "The development of LTE vehicle networking V2V simulation platform and the improvement of link adaptive technology"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2014-obesity-in-asd-oregon.pdf"
+url_pdf = "https://drive.google.com/file/d/14bB8d-R5gJT89-YterUP6E6ukMCs0crm/view?usp=sharing"
 url_project = ""
 url_slides = ""
 url_video = ""
