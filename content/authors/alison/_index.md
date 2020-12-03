@@ -48,6 +48,6 @@ email: shipeng_liu@hotmail.com
 
 “Life is full of Challenges” is my life motto,  which  inspired me to explore **the interdisciplinary realm of robotic intelligence** through the internship and research exploration. Currently, I am doing a research intern remotely in [UMich](https://cse.engin.umich.edu/) under the supervision of [Prof. Xu Wang](http://www.cs.cmu.edu/~xuwang/). 
 
-Previously, I worked on **simulation and learning for control of unmanned vehicles** supervised by [Prof. Ming Liu](https://sites.google.com/site/mingliurobot/home) in [Robotics and Multi-Perception Lab, Robotics Institute, HKUST](https://www.ram-lab.com/), which resulted in my [bachelor thesis](<>).
+Previously, I worked on **simulation and learning for control of unmanned vehicles** supervised by [Prof. Ming Liu](https://sites.google.com/site/mingliurobot/home) in [Robotics and Multi-Perception Lab, Robotics Institute, HKUST](https://www.ram-lab.com/), which resulted in my [bachelor thesis](https://drive.google.com/file/d/1vxKW60K_4ylXPLzWtbUYh4adRWStaSmV/view?usp=sharing).
 
-For more info, you can refer to the latest **[CV](<>)** here.
+For more info, you can refer to the latest **[CV](</pdf/cv.pdf>)** here.
