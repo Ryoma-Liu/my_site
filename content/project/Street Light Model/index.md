@@ -2,7 +2,7 @@
 title: Intelligent Lighting System
 date: 2020-11-08T04:46:40.879Z
 summary: >-
-  Published a paper in DEStech Transactions on Computer Science and Engineering
+  Published a paper in DEStech Journal
 draft: false
 featured: false
 tags:
