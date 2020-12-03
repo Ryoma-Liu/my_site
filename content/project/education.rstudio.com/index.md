@@ -1,29 +1,27 @@
 ---
-aliases: [education]
-title: education.rstudio.com
-summary: All about learning and teaching data science
-abstract: ""
-date: "2019-09-24T00:00:00Z"
-image:
-  caption: 'Artwork by Desirée De Leon'
-  focal_point: Smart
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://education.rstudio.com
-
-categories:
-- website
+draft: false
+slides: example
+url_pdf: ""
+title: Web Chat Robot
+date: 2020-07-27T00:00:00.000Z
+summary: Remote Research Intern In UMich
+url_video: ""
 tags:
-- website
-- R
-- blogdown
-- education
+  - Web Application
+  - In Progress
+external_link:
+url_slides: ""
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  filename: featured.png
+  preview_only: true
+url_code: ""
 ---
 
-RStudio’s mission is:
-
-> “To equip everyone, regardless of means, to participate in a global economy that rewards data literacy.”
-
-Our education team supports this mission broadly by supporting people who want to learn R (or learn new things in R), and those who want to teach them. This website is designed for both. This website was built with Hugo, using a theme I developed and maintain. I worked with my former intern, [Desirée De Leon](https://desiree.rbind.io), to create the original artwork we used for the website.
+Video-based project discussions are becoming increasingly prevalent in remote group work. A lack of mutual understanding between team members can be common in such conversations as people are cognitively occupied with speaking, listening, and monitoring the conversations at the same time. In this work, based on the challenges around establishing mutual understanding during video-based project meetings, we build a web video conference tools to provide in-situ support to enable more transparent and productive project discussions.
