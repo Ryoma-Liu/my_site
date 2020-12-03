@@ -1,18 +1,18 @@
 +++
-abstract = "We report on an automatic technique for quantifying two types of repetitive speech: repetitions of what the child says him/herself (self-repeats) and of what is uttered by an interlocutor (echolalia). We apply this technique to a sample of 111 children between the ages of four and eight: 42 typically developing children (TD), 19 children with specific language impairment (SLI), 25 children with autism spectrum disorders (ASD) plus language impairment (ALI), and 25 children with ASD with normal, non-impaired language (ALN). The results indicate robust differences in echolalia between the TD and ASD groups as a whole (ALN + ALI), and between TD and ALN children. There were no significant differences between ALI and SLI children for echolalia or self-repetitions. The results confirm previous findings that children with ASD repeat the language of others more than other populations of children. On the other hand, self-repetition does not appear to be significantly more frequent in ASD, nor does it matter whether the child’s echolalia occurred within one (immediate) or two turns (near-immediate) of the adult’s original utterance. Furthermore, non-significant differences between ALN and SLI, between TD and SLI, and between ALI and TD are suggestive that echolalia may not be specific to ALN or to ASD in general. One important innovation of this work is an objective fully automatic technique for assessing the amount of repetition in a transcript of a child’s utterances."
+abstract = "The spherical robot owing to its unique shape and omnidirectional mobility plays an important role in the field of mobile robots. Although the spherical robot has many advantages over the legged robot, the robot is always detoured when encountering the obstacle. This paper applies a hopping mechanism to a spherical robot, such that the robot can adapt to the needs of different terrain and effectively cross over the obstacle. The hopping system utilizes toque spring as part of energy storage mechanism and converts kinetic energy of rotation into it with a particularly designed turntable. The track of this turntable is an Archimedes helix, whose special attribute of equidistance and equivelocity enables better stability of energy storage process. The experiments reveal that the proposed hopping mechanism enables a 250g spherical robot to achieve a 90cm-high hop. Furthermore, the influence of the friction and take-off angle of the robot on the hopping height and distance is analyzed."
 
-authors = ["Jan P. H. van Santen", "Richard W. Sproat", "alison"]
-date = "2013-04-12"
+authors = ["Yangyang Dong", "Shaojie Han", "Shipeng Liu", "Zijian Zhang", "Peng Qi]
+date = "2020-09-12"
 image_preview = ""
 math = true
-publication_types = ["2"]
-publication = "In *Autism Research*"
+publication_types = ["3"]
+publication = " submitted to *Journal of Mechanisms and Robotics - Transactions of the ASME*."
 publication_short = ""
 selected = false
-title = "Quantifying Repetitive Speech in Autism Spectrum Disorders and Language Impairment"
+title = "Design and Evaluation of a Spherical Robot with Novel Hopping Mechanisms"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2013-repetitive-speech-in-asd-sli.pdf"
+url_pdf = "https://drive.google.com/file/d/1WwWE7lwr38OWbYb7sDrvwbY2hlezxg4-/view"
 url_project = ""
 url_slides = ""
 url_video = ""
