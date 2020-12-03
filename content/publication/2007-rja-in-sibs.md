@@ -1,5 +1,5 @@
 +++
-abstract = "We compared responding to joint attention (RJA) in younger siblings of children with ASD (SIBS- ASD; n = 46) and younger siblings of children developing typically (SIBS-TD; n = 35). Children were tested between 12 and 23 months of age in a situation in which an experimenter directed the child’s attention to one of 8 targets. Each child responded to 10 different combinations of verbal and nonverbal cues containing varying levels of attention-specifying information. SIBS-ASD had significantly lower overall RJA scores than SIBS-TD. Moderately redundant cues were most difficult for SIBS-ASD relative to SIBS-TD; adding a point to moderately redundant cues improved RJA for SIBS-ASD, bringing them to a level of RJA commensurate with SIBS-TD."
+abstract = "Thermoelectric generation (TEG), the theoretical basis of which is the Seebeck effect, is a new energy-saving and environmentally-friendly power generation technology that directly converts thermal energy into electrical energy.  This paper designs a smart street lighting system which can interacts with people in different ways. Furthermore, we demonstrate that our city could save much more energy per years using our system."
 
 authors = ["Xiao-ying YANG", "<strong>Shi-peng LIU</strong>", "Lin-wei CHEN", "Jing ZHOU", "You-ling YU"]
 date = "2019-09-01"
