@@ -1,12 +1,14 @@
 ---
 aliases: [arm]
-title: Advanced R Markdown
-summary: A two-day workshop for those who want to take their R Markdown skills to the next level 
+title: Tactile Interaction
+summary: Submitted a paper to ICRA 2021 
 abstract: ""
-date: "2016-04-27T00:00:00Z"
+date: "2020-11-07T16:56:12.584Z"
 image:
-  caption: '[Photo by Edoardo Busti on Unsplash](https://unsplash.com/photos/gEdPXT6BKcc)'
+
+  filename: feature.png
   focal_point: Smart
+  preview_only: false
 links:
 - icon: door-open
   icon_pack: fas
@@ -18,17 +20,12 @@ links:
   url: https://github.com/rstudio-education/rmarkdown-extensions-conf19
 
 categories:
-- workshop
+- Robotics
 tags:
-- workshop
-- R
-- blogdown
-- xaringan
-- bookdown
-- flexdashboard
-- rmarkdown
+- Tactile Interaction
+- Robotics
+- Neural Network
+
 ---
 
-This two-day workshop is designed for those who want to take their R Markdown skills to the next level. We’ll talk about many low-level details in the rmarkdown package and the whole R Markdown ecosystem. The two goals of this workshop are: 1) learn how to fully customize R Markdown output (HTML, LaTeX/PDF, Word, and PowerPoint); and 2) learn more about existing R Markdown extensions in the ecosystem, such as flexdashboard, bookdown, blogdown, pkgdown, xaringan, rticles, and learnr. We will also talk about how to use or develop new language engines (languages that are not R), how to develop HTML widgets, and integrate Shiny with R Markdown.
-
-See the workshop website for more, and links to individual slides below.
+To effectively interact with the physical world, an intelligent robot is required to have the ability to obtain the detailed features of an unknown object. Visual devices are commonly used to detect the global geometry of an object; however, detailed information such as surface properties cannot be identified using these devices. The current study proposes an adaptive haptic exploration method to recognize the physical properties of surfaces using an intelligent fingertip. Our surface-following algorithm utilizes the normal force vector and the tangential force vector at the contact point between the fingertip and the target object to predict the moving direction and to implement surface exploration. In addition, a correction index K is introduced to adjust the sliding velocity and surface following on irregular objects. The algorithm is proved to be robust and superior both in simulation and lab experiments. Finally, we propose and explore a haptic prediction neural network, which enables our robot to have an accurate feel through physical interaction. The overall accuracy of the proposed model is 90.2%.
