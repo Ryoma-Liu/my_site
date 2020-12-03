@@ -19,7 +19,7 @@ interests:
   - Self-driving Cars
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: shipeng_liu@hotmail.com
   - icon: twitter
     icon_pack: fab
