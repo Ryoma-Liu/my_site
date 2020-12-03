@@ -107,6 +107,10 @@ a.nav-link:hover:after {
 
 /* this erases the margin-bottom for h1 */
 
+.home-section.wg-about p {
+  text-align: justify;
+}
+
 .home-section.wg-pages .section-heading h1 {
   margin: 0 0 0 0;
 }
