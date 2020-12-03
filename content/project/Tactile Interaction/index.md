@@ -1,6 +1,6 @@
 ---
 aliases: [arm]
-title: Tactile Interaction
+title: Tactile Interaction of Robot Fingertip
 summary: Submitted a paper to ICRA 2021 
 abstract: ""
 date: "2020-11-07T16:56:12.584Z"
