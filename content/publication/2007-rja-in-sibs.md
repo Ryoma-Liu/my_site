@@ -1,7 +1,7 @@
 +++
 abstract = "Thermoelectric generation (TEG), the theoretical basis of which is the Seebeck effect, is a new energy-saving and environmentally-friendly power generation technology that directly converts thermal energy into electrical energy.  This paper designs a smart street lighting system which can interacts with people in different ways. Furthermore, we demonstrate that our city could save much more energy per years using our system."
 
-authors = ["Xiao-ying YANG", "<strong>Shi-peng LIU</strong>", "Lin-wei CHEN", "Jing ZHOU", "You-ling YU"]
+authors = ["Xiao-ying YANG", "<b>Shi-peng LIU</b>", "Lin-wei CHEN", "Jing ZHOU", "You-ling YU"]
 date = "2019-09-01"
 image_preview = ""
 math = true
