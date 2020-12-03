@@ -5,8 +5,7 @@ summary: Submitted a paper to ICRA 2021
 abstract: ""
 date: "2020-11-07T16:56:12.584Z"
 image:
-
-  filename: featured.gif
+  filename: feature.gif
   focal_point: Smart
   preview_only: false
 links:
