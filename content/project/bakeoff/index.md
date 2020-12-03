@@ -13,7 +13,7 @@ authors:
   - admin
 tags:
   - Prototype Design
-external_link: https://ryoma-liu.netlify.app/project/design-and-production-of-a-beacon-tracking-intelligent-racing-car
+external_link:
 image:
   filename: featured.png
   focal_point: Smart
