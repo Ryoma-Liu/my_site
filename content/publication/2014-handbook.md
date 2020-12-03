@@ -6,7 +6,7 @@ date = "2020-06-03"
 image_preview = ""
 math = true
 publication_types = ["7"]
-publication = "Bachelor Thesis in [Library of Tongji University](https://www.lib.tongji.edu.cn/index.php?classid=12746)"
+publication = "Bachelor Thesis in Chinese in [Library of Tongji University](https://www.lib.tongji.edu.cn/index.php?classid=12746)"
 publication_short = ""
 selected = false
 title = "Development of a Closed-loop Simulator for Unmanned Vehicle Control Based on Carla"
