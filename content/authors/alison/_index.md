@@ -18,6 +18,9 @@ interests:
   - Reinforcement Learning
   - Self-driving Cars
 social:
+  - icon: email
+    icon_pack: fab
+    link: shipeng_liu@hotmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ryoma-liu
