@@ -1,5 +1,5 @@
 ---
-title: Design of an Intelligent Street Lighting Dimming System
+title: Intelligent Lighting System
 date: 2020-11-08T04:46:40.879Z
 summary: >-
   Won ***the Silver Medal*** in the 2018 “Internet Plus” Innovation and
