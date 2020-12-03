@@ -16,7 +16,7 @@ url_pdf = "pdf/2004-false-memories.pdf"
 url_demo = "pdf/2004-false-memories.pdf"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "pdf/2004-false-memories.pdf"
 
 
 # Optional featured image (relative to `static/img/` folder).
