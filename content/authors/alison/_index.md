@@ -18,8 +18,8 @@ interests:
   - Reinforcement Learning
   - Self-driving Cars
 social:
-  - icon: email
-    icon_pack: fab
+  - icon: envelope
+    icon_pack: far
     link: shipeng_liu@hotmail.com
   - icon: twitter
     icon_pack: fab
