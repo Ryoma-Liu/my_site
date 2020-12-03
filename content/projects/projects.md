@@ -24,31 +24,30 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-
-  [[content.filter_button]]
-    name = "website"
-    tag = "website"
-    
-  [[content.filter_button]]
-    name = "R"
-    tag = "R"
-    
-  [[content.filter_button]]
-    name = "Software"
-    tag = "software"
-
-  [[content.filter_button]]
-    name = "Workshop"
-    tag = "workshop"
   
   [[content.filter_button]]
-    name = "Course"
-    tag = "course"
+    name = "Tactile Interaction"
+    tag = "Tactile Interaction"
+  
+  [[content.filter_button]]
+    name = "Web Application"
+    tag = "Web Application"
+  
+  [[content.filter_button]]
+    name = "In Progress"
+    tag = "In Progress"
+
+  [[content.filter_button]]
+    name = "Prototype Design"
+    tag = "Prototype Design"
     
   [[content.filter_button]]
-    name = "Book"
-    tag = "book"
+    name = "User Interface"
+    tag = "User Interface"
 
+  [[content.filter_button]]
+    name = "Reinforcement Learning"
+    tag = "Reinforcement Learning"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
