@@ -48,12 +48,12 @@ subtitle = ""
 +++
 
 
+I remembered how proud I felt when I received a medal for winning first place in the [NXP Cup National College Student Intelligent Car Race](https://www.nxp.com/company/blog/nxp-cup-students-build-and-race-autonomous-model-cars:BL-STUDENTS-BUILD-RACE-AUTONOMOUS) with the [smart car](</project/race-car>) that I designed. Since then, I have been working harder than ever on my research on autonomous vehicles. In the foreseeable future, I envision affordable mobile robots that are capable of breaking the limit of space to make people more connected, and freeing people from tiresome driving to focus on human interactions with their loved ones. At an undergraduate level, I am confident of my experiences and achievements in this direction through systematic training and research at [Tongji University](https://en.tongji.edu.cn/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), and (University of Michigan, Ann Arbor)[https://umich.edu/]. However, the more I dived in, the more I realized that my current knowledge and experience might not be enough in supporting my overarching dream and the idea to pursue higher education in an institution sharing my vision is becoming more compelling by day. 
 
-
-
-I am originally from Atlanta, Georgia, and am a proud ramblin' wreck from [Georgia Tech](https://www.gatech.edu/). I received my PhD in psychology and quantitative methods from Vanderbilt University in 2008. Prior to joining RStudio, I was an Assistant Professor at Arizona State University, and an Associate Professor at Oregon Health & Science University (OHSU). At OHSU, I was an NIH-funded Principal Investigator and an Assistant Center Director.
 
 <img src="maps.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:60%;">
+
+
 
 
 My [research](https://profiles.impactstory.org/u/0000-0002-8082-1890) focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific [publications](/publication) on autism and neurodevelopmental disorders and have presented my research at over 25 international conferences.
