@@ -1,16 +1,16 @@
 ---
-title: Introduction to Machine Learning with the Tidyverse 
-subtitle: 'An rstudio::conf 2020 workshop'
+title: "2020-04-27：I completed the course "Robotics:Aerial Robotics" in Coursera!" 
+subtitle:
 draft: false
 event: 'rstudio::conf 2020'
 event_url: https://rstd.io/conf
 location: San Francisco, CA
-summary: "rstudio::conf(2020) two-day workshop to introduce the basics of machine learning and tidymodels."
+summary: "I am interested in robotics and self-driving cars and I spent my free-time in coursera to learn more about robotics and self-driving cars"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-27T09:00:00Z"
-date_end: "2020-01-28T17:00:00Z"
+date: "2020-04-27T09:00:00Z"
+date_end: "2020-04-27T17:00:00Z"
 all_day: false
 publishdate: "2020-02-01"
 
