@@ -51,7 +51,5 @@ subtitle = ""
 +++
 <div style="display:inline-block;width:600px;margin-left:200px;margin-top:50px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5dv901erckj&amp;m=0&amp;c=54ff00&amp;cr1=ff0000&amp;br=10&amp;sx=0" async="async"></script></div>
 <p style="text-align:center;color:#000000;"> Unique visitors since Decemember 2020</p>
-<a href="https://www.easycounter.com/" style="margin-left:500px">
-<img src="https://www.easycounter.com/counter.php?shipeng_liu" border="1" alt="Web Site Hit Counter" width="20%"></a>
-
+<img src="https://www.easycounter.com/counter.php?shipeng_liu" border="0" alt="Web Site Hit Counter" >
 
