@@ -10,6 +10,7 @@ event_url: /html/jamboree_heart_ggplot.html
 image:
   caption: '[Photo by Isaac Smith on Unsplash](https://unsplash.com/photos/6EnTPvPPL6I)'
   focal_point: Smart
+  preview: false
 location: Portland, OR
 math: true
 selected: true
