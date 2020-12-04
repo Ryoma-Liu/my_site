@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<a href='https://clustrmaps.com/site/1beek'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=403b3b&w=605&t=tt&d=We2pgNNT-Fvm0wFPbxptBKoddbIuWmAcrkiKGYIE3hE&co=f0f7fa&ct=393535'/></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=403b3b&w=700&t=tt&d=We2pgNNT-Fvm0wFPbxptBKoddbIuWmAcrkiKGYIE3hE&co=f0f7fa&ct=393535'></script>
