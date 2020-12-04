@@ -43,10 +43,9 @@
     </div>
     {{ end }}
 
-    {{ if eq $item.Type "talk" }}
     <div class="stream-meta article-metadata">
 
-      <!-- {{ if eq $item.Type "talk" }}
+      {{ if eq $item.Type "talk" }}
       <div>
         <span>
           {{ partial "functions/get_event_dates" $item }}
@@ -56,7 +55,7 @@
         <span>{{ . }}</span>
         {{ end }}
       </div>
-      {{ end }} -->
+      {{ end }}
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
@@ -66,31 +65,6 @@
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
       {{ end }}
     </div>
-    {{else}}
-
-    <div class="stream-meta article-metadata">
-
-      <!-- {{ if eq $item.Type "talk" }}
-      <div>
-        <span>
-          {{ partial "functions/get_event_dates" $item }}
-        </span>
-        {{ with $item.Params.location }}
-        <span class="middot-divider"></span>
-        <span>{{ . }}</span>
-        {{ end }}
-      </div>
-      {{ end }} -->
-
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
-    </div>
-    {{end}}
 
     {{ if $show_buttons }}
     <div class="btn-links">
