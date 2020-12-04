@@ -1,5 +1,5 @@
 ---
-title: "2020-08-07, I am honored to join the LifelongLearning Lab"
+title: "2020-08-07: I am honored to join the LifelongLearning Lab"
 draft: false
 event: 'R in Pharma 2020'
 event_url: https://rinpharma.com/rpharma_2020/

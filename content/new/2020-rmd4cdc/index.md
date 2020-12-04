@@ -1,5 +1,5 @@
 ---
-title: "2020-6-28:Congratulations to me!"
+title: "2020-6-28: Congratulations to me!"
 draft: false
 event: 'R user community at the Centers for Disease Control'
 event_url: 
