@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5016i5wrs1e&amp;m=0&amp;c=54ff00&amp;cr1=ff0000&amp;sx=0" async="async"></script>
+<div style="display:inline-block;width:700px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5dv901erckj&amp;m=0&amp;c=54ff00&amp;cr1=ff0000&amp;br=10&amp;sx=0" async="async"></script></div>
