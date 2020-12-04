@@ -1,8 +1,9 @@
 ---
-title: "InspiRing InstRuction: A panel on teaching #rstats for all audiences"
+title: "2020-11-07: I am seeking for Ph.D. positions."
+Subtitle: "Please contact me through shipeng@hotmail.com"
 draft: false
 authors: 
-  - alison
+  - Shipeng Liu
 event: 'R-Ladies Chicago'
 event_url: https://www.meetup.com/rladies-chicago/events/273650234/
 location: Online meetup
