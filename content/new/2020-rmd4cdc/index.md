@@ -1,15 +1,15 @@
 ---
-title: An Introduction to R Markdown for the CDC
+title: "2020-6-28:Congratulations to me!"
 draft: false
 event: 'R user community at the Centers for Disease Control'
 event_url: 
 location: remote
-summary: "A one-hour introduction to R Markdown."
+summary: "I successfully defense my bachlor thesis!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-05-13T14:00:00Z"
-date_end: "2020-05-13T15:00:00Z"
+date: "2020-06-28T14:00:00Z"
+date_end: "2020-06-28T15:00:00Z"
 all_day: false
 publishdate: "2020-02-01"
 

@@ -1,10 +1,10 @@
 ---
-title: R Markdown for Pharma
+title: "2020-08-07, I am honored to join the "
 draft: false
 event: 'R in Pharma 2020'
 event_url: https://rinpharma.com/rpharma_2020/
 location: Philadelphia, PA
-summary: "A four-hour workshop for R / Pharma 2020 that will take you on a tour of how to get from data to manuscript using R Markdown."
+summary: "Start from early August, I will have a research intern in [LifelongLearning Lab](https://web.eecs.umich.edu/~xwanghci/) supervised by [Prof. Xu Wang](https://web.eecs.umich.edu/~xwanghci/)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

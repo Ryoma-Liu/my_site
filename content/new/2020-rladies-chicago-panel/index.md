@@ -1,6 +1,6 @@
 ---
-title: "2020-11-07: I am seeking for Ph.D. positions."
-Subtitle: "Please contact me through shipeng@hotmail.com"
+title: "2020-11-12: I am seeking for Ph.D. positions."
+
 draft: false
 authors: 
   - Shipeng Liu
@@ -8,7 +8,7 @@ event: 'R-Ladies Chicago'
 event_url: https://www.meetup.com/rladies-chicago/events/273650234/
 location: Online meetup
 abstract: ""
-summary: "Come hear from 3 R-Ladies on how to make R pedagogy work for different groups of people!"
+summary: "Please contact me through shipeng@hotmail.com"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

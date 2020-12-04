@@ -1,19 +1,18 @@
 ---
-title: Sharing on Short Notice
+title: Paper submitted to ICRA 2021
 draft: false
 authors: 
-  - alison
-  - Desirée De Leon
+  - shipeng liu
 event: 'RStudio Webinar'
 event_url: https://resources.rstudio.com/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown
 location: Online webinar
 abstract: ""
-summary: "How to get your materials online on short notice."
+summary: "Our paper **An Adaptive Haptic Exploration and Surface Classification of Irregular Objects** has been submitted to IEEE International Conference on Robotics and Automation(ICRA)!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-03-31T09:00:00Z"
-date_end: "2020-03-31T09:45:00Z"
+date: "2020-11-01T09:00:00Z"
+date_end: "2020-11-01T09:45:00Z"
 all_day: false
 
 categories:
