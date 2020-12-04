@@ -1,5 +1,5 @@
 ---
-title: "2020-04-27：I completed the course "Robotics:Aerial Robotics" in Coursera!" 
+title: "2020-04-27：I completed the course [Robotics:Aerial Robotics](https://www.coursera.org/learn/robotics-flight) in Coursera! "
 subtitle:
 draft: false
 event: 'rstudio::conf 2020'
