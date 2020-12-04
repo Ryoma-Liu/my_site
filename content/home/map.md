@@ -49,9 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="display:inline-block;width:600px;margin-left:200px;margin-top:100px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5dv901erckj&amp;m=0&amp;c=54ff00&amp;cr1=ff0000&amp;br=10&amp;sx=0" async="async"></script></div>
+<div style="display:inline-block;width:600px;margin-left:200px;margin-top:50px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5dv901erckj&amp;m=0&amp;c=54ff00&amp;cr1=ff0000&amp;br=10&amp;sx=0" async="async"></script></div>
 
-<a href="https://www.easycounter.com/" text-aligh="center">
+<a href="https://www.easycounter.com/" text-align="center">
 <img src="https://www.easycounter.com/counter.php?shipeng_liu" border="1" alt="Web Site Hit Counter" width="20%"></a>
 <p text-align="center">Unique visitors since Decemember 2020</p>
 
