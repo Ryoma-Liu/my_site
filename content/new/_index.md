@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: Hi, News there
-view: 3
+view: 2
 ---
