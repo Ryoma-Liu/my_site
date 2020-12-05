@@ -44,7 +44,7 @@ height = "225px"
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   cta_label = "see my research statement"
-  cta_url = "/research"
+  cta_url = "/about"
   cta_icon_pack = "fas"
   cta_icon = "spa"
 
