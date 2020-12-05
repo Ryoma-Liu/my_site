@@ -36,15 +36,15 @@ height = "225px"
 
 [[item]]
   title = ""
-  content = "\"Alison is a phenomenal teacher, and her enthusiasm for the subject matter is palpable.\""
+  content = "\"Shipeng is now a research assistant, and his enthusiasm for the subject matter is palpable.\""
   align = "left"
 
   overlay_color = "#404040"  # An HTML color value.
   overlay_img = "headers/daisy.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
-  cta_label = "see my projects"
-  cta_url = "/projects"
+  cta_label = "see my research statement"
+  cta_url = "/research"
   cta_icon_pack = "fas"
   cta_icon = "spa"
 
