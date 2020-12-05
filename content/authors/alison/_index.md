@@ -29,13 +29,13 @@ social:
     link: https://github.com/ryoma-liu
   - icon: orcid
     icon_pack: ai
-    link: http://orcid.org/0000-0002-8082-1890
+    link: http://orcid.org/
   - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/shipeng-liu-981586195/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=yGD9V6MAAAAJ&hl=en
+    link: https://scholar.google.com/
 education:
   courses:
     - course: BEng in Electrical Engineering
