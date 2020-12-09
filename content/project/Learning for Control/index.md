@@ -3,7 +3,7 @@ title: Learning for Control of High speed Car
 date: 2020-11-08T04:05:23.062Z
 summary: Won the ***Excellent Bachelor Thesis***
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 tags:
