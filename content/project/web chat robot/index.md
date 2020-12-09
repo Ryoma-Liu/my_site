@@ -6,6 +6,7 @@ title: Web Chat Robot
 date: 2020-07-27T00:00:00.000Z
 summary: Remote Research Intern In [UMich Lab](https://web.eecs.umich.edu/~xwanghci/)
 url_video: ""
+featured: true
 tags:
   - Web Application
   - In Progress

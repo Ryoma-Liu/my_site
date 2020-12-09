@@ -5,7 +5,7 @@ summary: >-
   Won **1st Prize(Top 1%)** in NXP-Car-Race
 
 draft: false
-featured: false
+featured: true
 authors:
   - admin
 tags:

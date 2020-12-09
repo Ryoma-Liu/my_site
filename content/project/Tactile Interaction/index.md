@@ -7,7 +7,7 @@ date: "2020-11-07T16:56:12.584Z"
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 links:
 - icon: door-open
   icon_pack: fas

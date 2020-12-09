@@ -9,7 +9,7 @@ summary: Research in [Tongji-MIT
 authors:
   - admin
 url_video: ""
-featured: false
+featured: true
 external_link:
 url_slides: ""
 tags:
