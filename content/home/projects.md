@@ -74,6 +74,3 @@ subtitle = "Featured Projects"
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering projects]({{< ref "/project/_index.md" >}}).
-{{% /alert %}}
