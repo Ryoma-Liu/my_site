@@ -2,7 +2,7 @@
 title: Intelligent Beacon-tracking Racing Car
 date: 2020-11-08T04:27:24.270Z
 summary: 
-    <strong>Research Intern at [Robotics and Artificial Intelligence Lab](https://rail.tongji.edu.cn/), TJU, Supervisor. Prof. Qijun Chen</strong>
+    <strong>Research Intern at [Robotics and Artificial Intelligence Lab](https://rail.tongji.edu.cn/), TJU, Supervisor. Prof. Qijun Chen</strong><br>
     👌 Designed the complete set of hardware from schematics to PCB layout using Altium<br>
     👌 Implemented global planning algorithms to track target beacons and avoid obstacles<br>
     👌 Optimized trajectory and designed a fuzzy PID controller to follow the target trajectory<br>
