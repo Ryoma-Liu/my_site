@@ -2,7 +2,8 @@
 title: Intelligent Lighting System
 date: 2020-11-08T04:46:40.879Z
 summary: 
-    <strong>Research Intern at Information Engineering, TJU, Supervisor. Prof. Youling Yu</strong><br>
+    <strong>Research Intern at Information Engineering, TJU</strong><br>
+    <strong>Supervisor. Prof. Youling Yu</strong><br>
     👌 Executed a survey about the shortcomings of the current street light system<br>
     👌 Built an intelligent Street Lighting IoT System with multi interactive ways<br>
     👌 Implemented pedestrian,light and voice detection, and cloud control<br>

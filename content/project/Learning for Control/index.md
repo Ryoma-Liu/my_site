@@ -3,7 +3,8 @@ title: Learning for Control of High speed Car
 date: 2020-11-08T04:05:23.062Z
 summary:   
 
-    <strong>Summer Research Intern at [Robotics and Multi-perception Lab](https://www.ram-lab.com/), HKUST, Supervisor. Prof. Ming Liu</strong><br>
+    <strong>Summer Research Intern at [Robotics and Multi-perception Lab](https://www.ram-lab.com/), HKUST</strong><br>
+    <strong>Supervisor. Prof. Ming Liu</strong><br>
     👌 Measured and Calibrated the dynamics parameters of lab’s vehicles and integrated it with Carla Simulator<br>
     👌 Developed the trajectory design module(including B-spline, Bezier and Cubic spline trajectories), vehicle control module( lateral control and longitudinal control) as well as visualization module<br>
     👌 Implemented error coupled sliding mode control algorithm for lane following and trained an adaptive dynamic programming(ADP) network to further improve the tracking accuracy in high-speed situation<br>
