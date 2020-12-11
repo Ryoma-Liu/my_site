@@ -8,7 +8,7 @@ event: 'R-Ladies Chicago'
 event_url: https://www.meetup.com/rladies-chicago/events/273650234/
 location: Online meetup
 abstract: ""
-summary: "Please contact me through shipeng@hotmail.com"
+summary: "Please contact me through shipeng_liu@hotmail.com"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
