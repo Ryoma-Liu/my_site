@@ -447,13 +447,13 @@ ul.ul-edu li .description p.institution {
 
 .project-card {
   position: relative;
-  width: calc(35.6% - 2*20px); /* Fluid 3 columns (inc. 20px gutter) */
+  width: calc(50% - 20px); /* Fluid 3 columns (inc. 20px gutter) */
 }
 
 
 @media screen and (max-width: 1199px) {
   .project-card {
-    width: calc(50% - 20px); /* Fluid 2 columns (inc. 20px gutter) */
+    width: 100%; /* Fluid 2 columns (inc. 20px gutter) */
   }
 }
 @media screen and (max-width: 768px) {
