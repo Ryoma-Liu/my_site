@@ -1,7 +1,12 @@
 ---
 aliases: [arm]
 title: Tactile Interaction of Robot Fingertip
-summary: Submitted a paper to ICRA 2021 
+summary: 
+    <strong>Research Intern at Tongji University, Supervisor.[Prof. Peng Qi](http://orcid.org/0000-0003-0514-9464)</strong><br>
+    👌 Designed a novel robot fingertip attached with tactile sensors to explore detailed properties of surfaces<br>
+    👌 Presented a robust surface following algorithm based on the tactile force for the fingertip to follow irregular objects and surfaces with discontinuous curvature such as cubes<br>
+    👌 Designed a feed forward neural network to classify objects with different adjectives, i.e. soft-smooth soft-rough, hard-smooth, hard-rough<br>z
+    📒 Submitted a paper to 2021 IEEE International Conference on Robotics and Automation [C.2]<br> 
 abstract: ""
 date: "2020-11-07T16:56:12.584Z"
 image:

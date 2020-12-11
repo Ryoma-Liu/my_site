@@ -4,7 +4,13 @@ slides: example
 url_pdf: ""
 title: Web Chat Robot
 date: 2020-07-27T00:00:00.000Z
-summary: Remote Research Intern In [UMich Lab](https://web.eecs.umich.edu/~xwanghci/)
+summary:     
+    <strong>Remote Research Intern at [Lifelong Learning Lab](https://web.eecs.umich.edu/~xwanghci/), UMich</strong><br>
+    <strong>Supervisor. [Prof. Xu Wang](https://web.eecs.umich.edu/~xwanghci/)</strong><br>
+    👌 Designed storyboards for different user needs in the cooperation meeting(i.e. time allocation problem, incomplete hearing problem) and tested it by speed dating<br>
+    👌 Developed a Django-based website with video conference feature, online chat feature(based on Django channel), and voice auto-transcript feature<br>
+    👌 Designed a chat robot to detect mentioned meeting problems and to improve cooperation efficiency<br>
+
 url_video: ""
 featured: true
 tags:
