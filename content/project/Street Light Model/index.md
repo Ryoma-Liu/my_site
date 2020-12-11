@@ -2,9 +2,9 @@
 title: Intelligent Lighting System
 date: 2020-11-08T04:46:40.879Z
 summary: 
-    ✔ Executed a survey about the shortcomings of the current street light system<br>
-    ✔ Built an intelligent Street Lighting IoT System with multi interactive ways
-    ✔ Implemented pedestrian,light and voice detection, and cloud control<br>
+    👌Executed a survey about the shortcomings of the current street light system<br>
+    👌Built an intelligent Street Lighting IoT System with multi interactive ways
+    👌Implemented pedestrian,light and voice detection, and cloud control<br>
 
     🏆Won Silver Medal in the 2018 “Internet Plus” Entrepreneurship Competition, TJU <br>
 
