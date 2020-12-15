@@ -5,27 +5,27 @@
 
 [[main]]
   name = "Research"
-  url = "/about"
+  url = "、about"
   weight = 10
 
 [[main]]
   name = "Pubs&Reports"
-  url = "/publication"
+  url = "#publications"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "/projects"
+  url = "#projects"
   weight = 30
 
 [[main]]
   name = "Blog"
-  url = "/post"
+  url = "#post"
   weight = 40
 
 [[main]]
   name = "News"
-  url = "/new"
+  url = "#new"
   weight = 50
 
 
