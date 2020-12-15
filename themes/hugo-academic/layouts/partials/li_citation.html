@@ -1,13 +1,7 @@
-{{ $page := .page }}
 
 <div class="pub-list-item" style="margin-bottom: 1rem">
 
-{{ if $page.Params.publication_types}}
-  <i class="far fa-file-alt pub-icon red" aria-hidden="true"></i>
-  <span class="red">$page.Params.sign</span>
-{{esle}}
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-{{end}}
+
 
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
