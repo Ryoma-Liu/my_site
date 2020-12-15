@@ -8325,8 +8325,8 @@ ul.share li:hover i {
   font-size: 0.81em;
   padding-right: 6px; }
 
-.red{
-  color: red;
+.green{
+  color: #06805E;
 }
 
 .view-list-item .article-metadata {
