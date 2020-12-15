@@ -1,6 +1,6 @@
 +++
 abstract = "According to the protocols of the 3GPP LTE physical layer and the channel models of V2V (Vehicle to Vehicle communication), a LINk-level simulation platform of LTEv2v based on MATLAB was established. The v2v communication realized in this platform is essentially LTE D2D communication in the high-speed scenarios, and it multiplexes the frequency band resources of LTE uplink. In this paper, an elegant user UI interface is designed for this platform. Considering the higher error rate (BLER) and strict delay requirement of v2v communication, a new SNR-CQI(MCS) mapping algorithm is proposed, so as to improve link adaptability in V2V mode. The improved simulation results are compared with the fixed CQI(MCS) scheme. Finally, the effectiveness of the proposed scheme is verified and the link performance under the condition of multiple vehicles is verified. It has guiding significance for the establishment of a V2V system-level platform."
-sign = "『R2』"
+sign = "R2"
 authors = ["Shipeng Liu"]
 date = "2019-02-02"
 image_preview = ""

@@ -1,6 +1,6 @@
 +++
 abstract = "The spherical robot owing to its unique shape and omnidirectional mobility plays an important role in the field of mobile robots. Although the spherical robot has many advantages over the legged robot, the robot is always detoured when encountering the obstacle. This paper applies a hopping mechanism to a spherical robot, such that the robot can adapt to the needs of different terrain and effectively cross over the obstacle. The hopping system utilizes toque spring as part of energy storage mechanism and converts kinetic energy of rotation into it with a particularly designed turntable. The track of this turntable is an Archimedes helix, whose special attribute of equidistance and equivelocity enables better stability of energy storage process. The experiments reveal that the proposed hopping mechanism enables a 250g spherical robot to achieve a 90cm-high hop. Furthermore, the influence of the friction and take-off angle of the robot on the hopping height and distance is analyzed."
-sign = "『J2』"
+sign = "J2"
 authors = ["Yangyang Dong", "Shaojie Han", "Shipeng Liu", "Zijian Zhang", "Peng Qi"]
 date = "2020-09-12"
 image_preview = ""

@@ -1,7 +1,7 @@
 +++
 abstract = "This paper introduces the design and implementation of a smart car system that can orient the illuminating beacon. After debugging and testing, the system has good accuracy and speed. Combining image recognition, path decision, adaptive obstacle avoidance and other control algorithms, the system is an original model and has certain practical significance for vehicle electronic technologies."
 
-sign = "『C1』"
+sign = "C1"
 authors = ["Shi-peng LIU", "Xiao-ying YANG", "You-ling YU"]
 date = "2019-07-01"
 image_preview = ""

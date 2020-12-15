@@ -1,6 +1,6 @@
 +++
 abstract = "In the course Introduction to Robotics, we devoted to model and simulate the kinematic of soft manipulator. Giving that the soft robot is three cable-driven, there is no other external force and the curve is constant, this problem is easier. The schematic diagram of the soft robot is shown below. The bending of this soft robot is controlled by three retractable wires, which are distributed in an equilateral triangle. Due to combination of different length, this soft robot could reach different points in his work place."
-sign = "║R3║"
+sign = "R3"
 authors = ["Shipeng LIU", "Zhijie Lai"]
 date = "2019-12-01"
 image_preview = ""
