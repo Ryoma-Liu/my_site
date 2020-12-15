@@ -2,8 +2,9 @@
 <div class="pub-list-item" style="margin-bottom: 1rem">
 
   {{ if .Params.sign}}
+  <span class="red">{{.Params.sign}}</span>
   <i class="far fa-file-alt pub-icon red" aria-hidden="true"></i>
-  <span class="red">.Params.sign</span>
+  
   {{else}}
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   {{end}}
