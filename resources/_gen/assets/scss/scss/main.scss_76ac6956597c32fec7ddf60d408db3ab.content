@@ -8325,6 +8325,10 @@ ul.share li:hover i {
   font-size: 0.81em;
   padding-right: 6px; }
 
+.red{
+  color: red;
+}
+
 .view-list-item .article-metadata {
   margin-bottom: 0; }
 
