@@ -2,10 +2,10 @@
 name = "alison"
 
 # Optional Google font URL
-google_fonts = "Lora:400,400i|Cormorant Garamond:400,400i,700,700i|Roboto+Mono"
+google_fonts = "Lora:400,400i|EB Garamond:400,400i,700,700i|Roboto+Mono"
 
 # Font families
 heading_font = "Lora"
-body_font = "Cormorant Garamond"
-nav_font = "Cormorant Garamond"
+body_font = "EB Garamond"
+nav_font = "EB Garamond"
 mono_font = "Lora"
