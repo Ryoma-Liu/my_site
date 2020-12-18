@@ -3,7 +3,7 @@ draft: false
 slides: example
 url_pdf: ""
 title: Web Chat Robot
-date: 2020-07-27T00:00:00.000Z
+date: 2020-12-17T00:00:00.000Z
 summary:     
     <strong>Remote Research Intern at [Lifelong Learning Lab](https://web.eecs.umich.edu/~xwanghci/), UMich</strong><br>
     <strong>Supervisor. [Prof. Xu Wang](https://web.eecs.umich.edu/~xwanghci/)</strong><br>

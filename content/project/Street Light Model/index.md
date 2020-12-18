@@ -1,6 +1,6 @@
 ---
 title: Intelligent Lighting System
-date: 2020-11-08T04:46:40.879Z
+date: 2018-04-08T04:46:40.879Z
 summary: 
     <strong>Research Intern at Information Engineering, TJU</strong><br>
     <strong>Supervisor. Prof. Youling Yu</strong><br>

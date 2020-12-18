@@ -3,7 +3,7 @@ draft: false
 slides: example
 url_pdf: ""
 title: Unmanned Logistics System
-date: 2020-11-08T03:06:06.515Z
+date: 2020-04-08T03:06:06.515Z
 summary:     
     <strong>Research Intern at [Tongji-MIT City Science Lab](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/)</strong><br>
     <strong>Supervisor. [Prof. Xiaohua Sun](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=3865&lang=en)</strong><br>

@@ -1,6 +1,6 @@
 ---
 title: Learning for Control of High speed Car
-date: 2020-11-08T04:05:23.062Z
+date: 2020-06-08T04:05:23.062Z
 summary:   
 
     <strong>Summer Research Intern at [Robotics and Multi-perception Lab](https://www.ram-lab.com/), HKUST</strong><br>

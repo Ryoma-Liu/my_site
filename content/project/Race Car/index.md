@@ -1,6 +1,6 @@
 ---
 title: Intelligent Beacon-tracking Racing Car
-date: 2020-11-08T04:27:24.270Z
+date: 2018-8-08T04:27:24.270Z
 summary: 
     <strong>Research Intern at [Robotics and Artificial Intelligence Lab](https://rail.tongji.edu.cn/), TJU</strong><br>
     <strong>Supervisor. Prof. Qijun Chen</strong><br>
