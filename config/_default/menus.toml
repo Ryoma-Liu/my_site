@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Research"
+  name = "State"
   url = "about"
   weight = 10
 
 [[main]]
-  name = "Pubs&Reports"
+  name = "Pubs&Reps"
   url = "#publications"
   weight = 20
 
@@ -31,9 +31,22 @@
 
 
 [[main]]
-  name = "Resume"
+  name = "CV"
   url = "pdf/cv.pdf"
   weight = 60
+
+[[main]]
+  identifier = "a-unique-reference"
+  name = "English"
+  url = "/"
+  weight = 70
+
+[[main]]
+  parent = "a-unique-reference"
+  name = "中文"
+  url = "https://cn.ryoma.xyz"
+  weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
